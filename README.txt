@@ -1,0 +1,1 @@
+Add bird.png,cat.png,dog.png,rabbit.png,pig.png to images.
